@@ -1,2 +1,5 @@
 *.pyc
 venv/
+.ensime
+.ensime_cache/
+target/
